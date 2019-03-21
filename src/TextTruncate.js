@@ -68,7 +68,6 @@ export default class TextTruncate extends Component {
             <Animated.View
                 style={{
                     height: this._heightAnimatedValue,
-                    backgroundColor: 'red',
                     overflow: 'hidden'
                 }}
             >
