@@ -1,0 +1,26 @@
+{
+  "name": "react-native-text-truncate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "author": {
+    "name": "MoonJava",
+    "email": "moonjava@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/moonjava2005/react-native-text-truncate",
+  "readme": "https://github.com/moonjava2005/react-native-text-truncate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moonjava2005/react-native-text-truncate.git"
+  }
+}
