@@ -135,7 +135,7 @@ export default class TextTruncate extends Component {
         } = this.props;
         if (renderExpandor) {
             return (<TouchableOpacity
-                style={[styles.truncatorContainer, {expandorStyle}]}
+                style={[styles.truncatorContainer, expandorStyle]}
                 activeOpacity={expandorActiveOpacity}
                 onPress={this._onExpandorPress}
             >

@@ -1,6 +1,6 @@
 {
   "name": "react-native-text-truncate",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Display the truncated text with read more and read less",
   "main": "index.js",
   "scripts": {
