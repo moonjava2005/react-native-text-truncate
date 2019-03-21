@@ -1,7 +1,7 @@
 {
   "name": "react-native-text-truncate",
   "version": "0.0.1",
-  "description": "",
+  "description": "Display the truncated text with read more and read less",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

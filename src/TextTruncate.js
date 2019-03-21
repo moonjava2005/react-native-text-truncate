@@ -5,11 +5,11 @@ import {Animated, LayoutAnimation, StyleSheet, Text, TouchableOpacity, View} fro
 export default class TextTruncate extends Component {
     static propTypes = {
         numberOfLines: PropTypes.number,
+        initExpanded: PropTypes.bool,
         expansionDuration: PropTypes.number,
         collapsionDuration: PropTypes.number,
         expandorActiveOpacity: PropTypes.number,
         collapsarActiveOpacity: PropTypes.number,
-        initExpanded: PropTypes.bool,
         expandorStyle: PropTypes.any,
         collapsarStyle: PropTypes.any,
         renderExpandor: PropTypes.func,
